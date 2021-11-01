@@ -11,7 +11,7 @@
 <br/>
 <b>Примерен вход и изход:</b>
 <br/>
-<img src="t1.png"/>
+<img src="t.png"/>
 <br/>
 <br/>
 <img src="t2.png"/>
